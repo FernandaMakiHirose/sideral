@@ -2,6 +2,10 @@
 O jogo A Space Shooter vai direto ao ponto: o objetivo é atirar em tudo o que aparece na tela do celular e matar todos os inimigos. Um game cheio de ação e humor sarcástico. Pilote uma nave espacial pela galáxia e acabe com todos os inimigos que encontrar. <br>
 Link do site: https://fernandamakihirose.github.io/space-shooter/ 
 
+# Comandos
+- Mover a nave: Page up e Page down
+- Atirar: botão de espaço
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
