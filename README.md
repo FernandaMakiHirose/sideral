@@ -1,5 +1,5 @@
 # Space Shooter
-O jogo A Space Shooter vai direto ao ponto: o objetivo é atirar em tudo o que aparece na tela do celular e matar todos os alienígenas. Um game cheio de ação e humor sarcástico. Pilote uma nave espacial pela galáxia e acabe com todos os aliens que encontrar. <br>
+O jogo A Space Shooter vai direto ao ponto: o objetivo é atirar em tudo o que aparece na tela do celular e matar todos os alienígenas. Um game cheio de ação e humor sarcástico. Pilote uma nave espacial pela galáxia e acabe com todos os inimigos que encontrar. <br>
 Link do site: https://fernandamakihirose.github.io/space-shooter/ 
 
 ## Sobre a Autora
