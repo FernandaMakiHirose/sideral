@@ -3,8 +3,8 @@
 - <a href="https://fernandamakihirose.github.io/space-shooter//" target="_blank">Clique aqui para jogar</a>
 
 # Comandos
-- Mover a nave: Page up e Page down
-- Atirar: botão de espaço
+- Mover a nave: Page up e Page down.
+- Atirar: botão de espaço.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
